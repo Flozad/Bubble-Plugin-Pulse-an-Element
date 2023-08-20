@@ -1,0 +1,14 @@
+{
+    "categories": {
+        "0": "technical",
+        "1": "containers",
+        "2": "social network"
+    },
+    "demo_page": "https://clasic-plugins.bubbleapps.io/version-test/pulse",
+    "description": "A simple way to create a pulse on a specific element targeted by its's ID\n\nWe can also talk if there if you want a custom one, just shoot an email to clasicwebtools [@] gmail.com\n\nCheck it out at https://bubble.io/page?type=page&name=pulse&id=clasic-plugins&test_plugin=1667413866091x381347285564129300_current&tab=tabs-1",
+    "image": "//s3.amazonaws.com/appforest_uf/f1667414942127x644255505702009600/brave_x61nn0pg3g--103.gif",
+    "license": "open_source",
+    "link": "https://bubble.io/page?type=page&name=pulse&id=clasic-plugins&test_plugin=1667413866091x381347285564129300_current&tab=tabs-1",
+    "name": "Pulse an Element",
+    "plugin_instructions": "1 - Download the plugin\n2 - set the element ID\n3 - implement on your page"
+}
